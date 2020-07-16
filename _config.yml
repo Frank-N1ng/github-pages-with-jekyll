@@ -4,8 +4,8 @@ email: 2592455945@qq.com
 description: A tranquil expanse on the vast internet.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Frank_N1ng # DO NOT include the @ character, or else the build will fail!
+github_username:  Frank-N1ng # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
