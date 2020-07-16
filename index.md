@@ -1,5 +1,5 @@
 ---
-title: 甯的个人网站
+title: 主页
 ---
 
-Hello, it's me.
+欢迎。
