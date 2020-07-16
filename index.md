@@ -1,5 +1,5 @@
 ---
-title: 主页
+title: Homepage
 ---
 
-欢迎。
+Welcome.
