@@ -1,6 +1,4 @@
 ---
-title: "my-first-blog"
+title: "Hello, It's Me"
 date: 2020-07-06
 ---
-
-Hello, it's me.
